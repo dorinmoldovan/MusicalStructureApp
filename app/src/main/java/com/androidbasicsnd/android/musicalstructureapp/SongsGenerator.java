@@ -65,7 +65,56 @@ public class SongsGenerator {
         this.songs.add(new Song("cover#48", "On My Mind", new ArrayList<String>(){{add("Cody Simpson");}}));
         this.songs.add(new Song("cover#49", "Incomplete", new ArrayList<String>(){{add("Backstreet Boys");}}));
         this.songs.add(new Song("cover#50", "Love Me Like You Do", new ArrayList<String>(){{add("Ellie Goulding");}}));
-        
+        this.songs.add(new Song("cover#51", "Say Something", new ArrayList<String>(){{add("A Great Big World"); add("Christina Aguilera");}}));
+        this.songs.add(new Song("cover#52", "Crazy In Love", new ArrayList<String>(){{add("Beyonce");}}));
+        this.songs.add(new Song("cover#53", "Because I Love You", new ArrayList<String>(){{add("September");}}));
+        this.songs.add(new Song("cover#54", "Suspicious Minds", new ArrayList<String>(){{add("Elvis Presley");}}));
+        this.songs.add(new Song("cover#55", "Drive By", new ArrayList<String>(){{add("Train");}}));
+        this.songs.add(new Song("cover#56", "Heaven", new ArrayList<String>(){{add("Bryan Adams");}}));
+        this.songs.add(new Song("cover#57", "Everything I Do", new ArrayList<String>(){{add("Bryan Adams");}}));
+        this.songs.add(new Song("cover#58", "Bleeding Love", new ArrayList<String>(){{add("Leona Lewis");}}));
+        this.songs.add(new Song("cover#59", "Because I Love You", new ArrayList<String>(){{add("Stevie B");}}));
+        this.songs.add(new Song("cover#60", "Pillowtalk", new ArrayList<String>(){{add("ZAYN");}}));
+        this.songs.add(new Song("cover#61", "Love The Way You Lie", new ArrayList<String>(){{add("Eminem"); add("Rihanna");}}));
+        this.songs.add(new Song("cover#62", "November Rain", new ArrayList<String>(){{add("Guns N' Roses");}}));
+        this.songs.add(new Song("cover#63", "Lady In Black", new ArrayList<String>(){{add("Uriah Heep");}}));
+        this.songs.add(new Song("cover#64", "My Life Would Suck Without You", new ArrayList<String>(){{add("Kelly Clarkson");}}));
+        this.songs.add(new Song("cover#65", "Glad You Came", new ArrayList<String>(){{add("The Wanted");}}));
+        this.songs.add(new Song("cover#66", "Fairytale", new ArrayList<String>(){{add("Alexander Rybak");}}));
+        this.songs.add(new Song("cover#67", "Let Go", new ArrayList<String>(){{add("Paul Van Dyk");}}));
+        this.songs.add(new Song("cover#68", "When You Look Me In The Eyes", new ArrayList<String>(){{add("Jonas Brothers");}}));
+        this.songs.add(new Song("cover#69", "Sing Me To Sleep", new ArrayList<String>(){{add("Alan Walker");}}));
+        this.songs.add(new Song("cover#70", "Arms", new ArrayList<String>(){{add("Christina Perri");}}));
+        this.songs.add(new Song("cover#71", "Catch You", new ArrayList<String>(){{add("Sophie Ellis-Bextor");}}));
+        this.songs.add(new Song("cover#72", "Sign of the Times", new ArrayList<String>(){{add("Harry Styles");}}));
+        this.songs.add(new Song("cover#73", "Titanium", new ArrayList<String>(){{add("David Guetta"); add("Sia");}}));
+        this.songs.add(new Song("cover#74", "Transylvania", new ArrayList<String>(){{add("McFly");}}));
+        this.songs.add(new Song("cover#75", "Only Teardrops", new ArrayList<String>(){{add("Emmelie de Forest");}}));
+        this.songs.add(new Song("cover#76", "Back To December", new ArrayList<String>(){{add("Taylor Swift");}}));
+        this.songs.add(new Song("cover#77", "Believe", new ArrayList<String>(){{add("Cher");}}));
+        this.songs.add(new Song("cover#78", "Locked Out Of Heaven", new ArrayList<String>(){{add("Bruno Mars");}}));
+        this.songs.add(new Song("cover#79", "Eye Of The Tiger", new ArrayList<String>(){{add("Survivor");}}));
+        this.songs.add(new Song("cover#80", "Every Single Day", new ArrayList<String>(){{add("Benny Benassi");}}));
+        this.songs.add(new Song("cover#81", "Sky", new ArrayList<String>(){{add("Sonique");}}));
+        this.songs.add(new Song("cover#82", "My Heart Will Go On", new ArrayList<String>(){{add("Celine Dion");}}));
+        this.songs.add(new Song("cover#83", "I Got You Babe", new ArrayList<String>(){{add("Sonny"); add("Cher"); }}));
+        this.songs.add(new Song("cover#84", "Ring My Bells", new ArrayList<String>(){{add("Enrique Iglesias");}}));
+        this.songs.add(new Song("cover#85", "My Number One", new ArrayList<String>(){{add("Helena Paparizou");}}));
+        this.songs.add(new Song("cover#86", "Uncover", new ArrayList<String>(){{add("Zara Larson");}}));
+        this.songs.add(new Song("cover#87", "Eternal Flame", new ArrayList<String>(){{add("The Bangles");}}));
+        this.songs.add(new Song("cover#88", "Spending My Time", new ArrayList<String>(){{add("Roxette");}}));
+        this.songs.add(new Song("cover#89", "In The Heat Of The Night", new ArrayList<String>(){{add("Sandra");}}));
+        this.songs.add(new Song("cover#90", "Sleep, For The Weak!", new ArrayList<String>(){{add("Lea Rue"); add("Lost Frequencies"); }}));
+        this.songs.add(new Song("cover#91", "One on One", new ArrayList<String>(){{add("Tujamo"); add("Sorana"); }}));
+        this.songs.add(new Song("cover#92", "Alone", new ArrayList<String>(){{add("Alan Walker"); }}));
+        this.songs.add(new Song("cover#93", "Broken Strings", new ArrayList<String>(){{add("James Morrison"); add("Nelly Furtado"); }}));
+        this.songs.add(new Song("cover#94", "Perfect Places", new ArrayList<String>(){{add("Lorde"); }}));
+        this.songs.add(new Song("cover#95", "A Drop In The Ocean", new ArrayList<String>(){{add("Ron Rope"); }}));
+        this.songs.add(new Song("cover#96", "Everytime We Touch", new ArrayList<String>(){{add("Maggie Reilly"); }}));
+        this.songs.add(new Song("cover#97", "Let Me Love You", new ArrayList<String>(){{add("DJ Snake"); add("Justin Bieber"); }}));
+        this.songs.add(new Song("cover#98", "Dusk Till Dawn", new ArrayList<String>(){{add("ZAYN"); add("Sia"); }}));
+        this.songs.add(new Song("cover#99", "Mercy", new ArrayList<String>(){{add("Shawn Mendes"); }}));
+        this.songs.add(new Song("cover#100", "2U", new ArrayList<String>(){{add("David Guetta"); add("Justin Bieber"); }}));
     }
 
     /**
