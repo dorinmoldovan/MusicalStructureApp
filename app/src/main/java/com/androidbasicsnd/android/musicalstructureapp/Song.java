@@ -18,7 +18,7 @@ public class Song {
     private ArrayList<String> singers;
 
     /**
-     * A constructor that is used for the initialization of objects of type Song.
+     * A constructor that is used for the initialization of objects of type Song and has three parameters.
      *
      * @param id the id of the song
      * @param title the title of the song
