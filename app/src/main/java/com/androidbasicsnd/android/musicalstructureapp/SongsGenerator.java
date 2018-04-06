@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class SongsGenerator {
 
     private ArrayList<Song> songs;
-    private SongsGenerator songsGenerator;
+    private static SongsGenerator songsGenerator;
 
     /**
      * The default constructor of the class SongsGenerator.
@@ -122,11 +122,18 @@ public class SongsGenerator {
      *
      * @return
      */
-    public SongsGenerator getSongsGenerator() {
+    public static SongsGenerator getSongsGenerator() {
         if(songsGenerator == null) {
             songsGenerator = new SongsGenerator();
         }
         return songsGenerator;
     }
 
+    public ArrayList<Song> getSongs() {
+        return songs;
+    }
+
+    public void setSongs(ArrayList<Song> songs) {
+        this.songs = songs;
+    }
 }
