@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">100COVERS</string>
     <string name="category_all_songs">All Songs</string>
+    <string name="category_songs_interpreted_by_males">Songs Interpreted By Males</string>
+    <string name="category_songs_interpreted_by_females">Songs Interpreted By Females</string>
+    <string name="category_songs_interpreted_by_males_and_females">Songs Interpreted By Males And Females</string>
 </resources>

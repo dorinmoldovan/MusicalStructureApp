@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:orientation="horizontal" android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/color_list_item"
     android:padding="@dimen/padding">
+
+    <ImageView
+        android:id="@+id/play_icon"
+        android:layout_width="@dimen/play_button_dimen"
+        android:layout_height="@dimen/play_button_dimen"
+        android:src="@drawable/ic_play_circle_outline_black_48dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
     <TextView
         android:id="@+id/id_text_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/padding"
+        android:textStyle="bold"
         tools:text="cover#0"/>
 
     <TextView
         android:id="@+id/title_text_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/padding"
         tools:text="title"/>
 
     <TextView
         android:id="@+id/singers_text_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/padding"
         tools:text="singers"/>
+
+    </LinearLayout>
 
 </LinearLayout>

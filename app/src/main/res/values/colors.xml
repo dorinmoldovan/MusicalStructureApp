@@ -3,7 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-
-    <!-- Background color for the category all songs -->
     <color name="category_all_songs">#1A237E</color>
+    <color name="category_songs_interpreted_by_males">#283593</color>
+    <color name="category_songs_interpreted_by_females">#303F9F</color>
+    <color name="category_songs_interpreted_by_males_and_females">#3949AB</color>
+    <color name="color_list_item">#BBDEFB</color>
+    <color name="color_background">#1E88E5</color>
 </resources>

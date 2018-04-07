@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/color_list_item"
     android:fillViewport="true"
     tools:context="MainActivity">
 
@@ -16,6 +17,24 @@
             style="@style/CategoryStyle"
             android:background="@color/category_all_songs"
             android:text="@string/category_all_songs" />
+
+        <TextView
+            android:id="@+id/songs_interpreted_by_males"
+            style="@style/CategoryStyle"
+            android:background="@color/category_songs_interpreted_by_males"
+            android:text="@string/category_songs_interpreted_by_males" />
+
+        <TextView
+            android:id="@+id/songs_interpreted_by_females"
+            style="@style/CategoryStyle"
+            android:background="@color/category_songs_interpreted_by_females"
+            android:text="@string/category_songs_interpreted_by_females" />
+
+        <TextView
+            android:id="@+id/songs_interpreted_by_males_and_females"
+            style="@style/CategoryStyle"
+            android:background="@color/category_songs_interpreted_by_males_and_females"
+            android:text="@string/category_songs_interpreted_by_males_and_females" />
 
     </LinearLayout>
 

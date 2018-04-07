@@ -23,6 +23,33 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity"/>
         </activity>
+
+        <activity
+            android:name=".SongsInterpretedByMalesActivity"
+            android:label="@string/category_songs_interpreted_by_males"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity
+            android:name=".SongsInterpretedByFemalesActivity"
+            android:label="@string/category_songs_interpreted_by_females"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity
+            android:name=".SongsInterpretedByMalesAndFemalesActivity"
+            android:label="@string/category_songs_interpreted_by_males_and_females"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
     </application>
 
 </manifest>
