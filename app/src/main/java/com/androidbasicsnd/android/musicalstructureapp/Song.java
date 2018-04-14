@@ -14,8 +14,8 @@ public class Song {
     /** the title of the song */
     private String title;
 
-    /** a list that contains the singers of the song */
-    private ArrayList<String> singers;
+    /** the singer or the singers of the song */
+    private String sungBy;
 
     /** a boolean flag which indicates if the song is intepreted by a male or by more males */
     private boolean maleSinger;
@@ -28,12 +28,12 @@ public class Song {
      *
      * @param id the id of the song
      * @param title the title of the song
-     * @param singers a list that contains the singers of the song
+     * @param sungBy the singer or the singers of the song
      */
-    public Song(String id, String title, ArrayList<String> singers, boolean maleSinger, boolean femaleSinger) {
+    public Song(String id, String title, String sungBy, boolean maleSinger, boolean femaleSinger) {
         this.id = id;
         this.title = title;
-        this.singers = singers;
+        this.sungBy = sungBy;
         this.maleSinger = maleSinger;
         this.femaleSinger = femaleSinger;
     }
@@ -54,12 +54,12 @@ public class Song {
         this.title = title;
     }
 
-    public ArrayList<String> getSingers() {
-        return singers;
+    public String getSungBy() {
+        return sungBy;
     }
 
-    public void setSingers(ArrayList<String> singers) {
-        this.singers = singers;
+    public void setSungBy(String sungBy) {
+        this.sungBy = sungBy;
     }
 
     public boolean isMaleSinger() {

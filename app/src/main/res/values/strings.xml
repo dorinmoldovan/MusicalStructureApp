@@ -4,4 +4,514 @@
     <string name="category_songs_interpreted_by_males">Songs Interpreted By Males</string>
     <string name="category_songs_interpreted_by_females">Songs Interpreted By Females</string>
     <string name="category_songs_interpreted_by_males_and_females">Songs Interpreted By Males And Females</string>
+    <string-array name="songs_ids">
+        <item>cover#1</item>
+        <item>cover#2</item>
+        <item>cover#3</item>
+        <item>cover#4</item>
+        <item>cover#5</item>
+        <item>cover#6</item>
+        <item>cover#7</item>
+        <item>cover#8</item>
+        <item>cover#9</item>
+        <item>cover#10</item>
+        <item>cover#11</item>
+        <item>cover#12</item>
+        <item>cover#13</item>
+        <item>cover#14</item>
+        <item>cover#15</item>
+        <item>cover#16</item>
+        <item>cover#17</item>
+        <item>cover#18</item>
+        <item>cover#19</item>
+        <item>cover#20</item>
+        <item>cover#21</item>
+        <item>cover#22</item>
+        <item>cover#23</item>
+        <item>cover#24</item>
+        <item>cover#25</item>
+        <item>cover#26</item>
+        <item>cover#27</item>
+        <item>cover#28</item>
+        <item>cover#29</item>
+        <item>cover#30</item>
+        <item>cover#31</item>
+        <item>cover#32</item>
+        <item>cover#33</item>
+        <item>cover#34</item>
+        <item>cover#35</item>
+        <item>cover#36</item>
+        <item>cover#37</item>
+        <item>cover#38</item>
+        <item>cover#39</item>
+        <item>cover#40</item>
+        <item>cover#41</item>
+        <item>cover#42</item>
+        <item>cover#43</item>
+        <item>cover#44</item>
+        <item>cover#45</item>
+        <item>cover#46</item>
+        <item>cover#47</item>
+        <item>cover#48</item>
+        <item>cover#49</item>
+        <item>cover#50</item>
+        <item>cover#51</item>
+        <item>cover#52</item>
+        <item>cover#53</item>
+        <item>cover#54</item>
+        <item>cover#55</item>
+        <item>cover#56</item>
+        <item>cover#57</item>
+        <item>cover#58</item>
+        <item>cover#59</item>
+        <item>cover#60</item>
+        <item>cover#61</item>
+        <item>cover#62</item>
+        <item>cover#63</item>
+        <item>cover#64</item>
+        <item>cover#65</item>
+        <item>cover#66</item>
+        <item>cover#67</item>
+        <item>cover#68</item>
+        <item>cover#69</item>
+        <item>cover#70</item>
+        <item>cover#71</item>
+        <item>cover#72</item>
+        <item>cover#73</item>
+        <item>cover#74</item>
+        <item>cover#75</item>
+        <item>cover#76</item>
+        <item>cover#77</item>
+        <item>cover#78</item>
+        <item>cover#79</item>
+        <item>cover#80</item>
+        <item>cover#81</item>
+        <item>cover#82</item>
+        <item>cover#83</item>
+        <item>cover#84</item>
+        <item>cover#85</item>
+        <item>cover#86</item>
+        <item>cover#87</item>
+        <item>cover#88</item>
+        <item>cover#89</item>
+        <item>cover#90</item>
+        <item>cover#91</item>
+        <item>cover#92</item>
+        <item>cover#93</item>
+        <item>cover#94</item>
+        <item>cover#95</item>
+        <item>cover#96</item>
+        <item>cover#97</item>
+        <item>cover#98</item>
+        <item>cover#99</item>
+        <item>cover#100</item>
+    </string-array>
+    <string-array name="songs_titles">
+        <item>Can\'t Fight This Feeling</item>
+        <item>Riptide</item>
+        <item>Down</item>
+        <item>Never Be Alone</item>
+        <item>Hold It Against Me</item>
+        <item>Can\'t Help Falling In Love</item>
+        <item>All Of Me</item>
+        <item>Never Let Me Go</item>
+        <item>Budapest</item>
+        <item>Waiting</item>
+        <item>Behind Blue Eyes</item>
+        <item>In And Out Of Love</item>
+        <item>Impossible</item>
+        <item>Blank Space</item>
+        <item>Baby When The Light</item>
+        <item>Supergirl</item>
+        <item>Only Love Can Hurt Like This</item>
+        <item>Skinny Love</item>
+        <item>I\'m Yours</item>
+        <item>Hello</item>
+        <item>While Your Lips Are Still Red</item>
+        <item>I Don\'t Wanna Live Forever</item>
+        <item>Chasing Cars</item>
+        <item>Born to Die</item>
+        <item>Toxic</item>
+        <item>Dear Darlin\'</item>
+        <item>Heartbeat</item>
+        <item>Let Her Go</item>
+        <item>Story of My Life</item>
+        <item>Brother Louie</item>
+        <item>Stay</item>
+        <item>Stitches</item>
+        <item>Love Yourself</item>
+        <item>Echo</item>
+        <item>You\'re The One That I Want</item>
+        <item>Dangerous</item>
+        <item>Afterglow</item>
+        <item>Mirrors</item>
+        <item>Lost On You</item>
+        <item>Someone Like You</item>
+        <item>All The Lovers</item>
+        <item>When I Look At You</item>
+        <item>You Lost Me</item>
+        <item>Torn</item>
+        <item>Feel</item>
+        <item>Yellow</item>
+        <item>Sorry</item>
+        <item>On My Mind</item>
+        <item>Incomplete</item>
+        <item>Love Me Like You Do</item>
+        <item>Say Something</item>
+        <item>Crazy In Love</item>
+        <item>Because I Love You</item>
+        <item>Suspicious Minds</item>
+        <item>Drive By</item>
+        <item>Heaven</item>
+        <item>Everything I Do</item>
+        <item>Bleeding Love</item>
+        <item>Because I Love You</item>
+        <item>Pillowtalk</item>
+        <item>Love The Way You Lie</item>
+        <item>November Rain</item>
+        <item>Lady In Black</item>
+        <item>My Life Would Suck Without You</item>
+        <item>Glad You Came</item>
+        <item>Fairytale</item>
+        <item>Let Go</item>
+        <item>When You Look Me In The Eyes</item>
+        <item>Sing Me To Sleep</item>
+        <item>Arms</item>
+        <item>Catch You</item>
+        <item>Sign of the Times</item>
+        <item>Titanium</item>
+        <item>Transylvania</item>
+        <item>Only Teardrops</item>
+        <item>Back To December</item>
+        <item>Believe</item>
+        <item>Locked Out Of Heaven</item>
+        <item>Eye Of The Tiger</item>
+        <item>Every Single Day</item>
+        <item>Sky</item>
+        <item>My Heart Will Go On</item>
+        <item>I Got You Babe</item>
+        <item>Ring My Bells</item>
+        <item>My Number One</item>
+        <item>Uncover</item>
+        <item>Eternal Flame</item>
+        <item>Spending My Time</item>
+        <item>In The Heat Of The Night</item>
+        <item>Sleep, For The Weak!</item>
+        <item>One on One</item>
+        <item>Alone</item>
+        <item>Broken Strings</item>
+        <item>Perfect Places</item>
+        <item>A Drop In The Ocean</item>
+        <item>Everytime We Touch</item>
+        <item>Let Me Love You</item>
+        <item>Dusk Till Dawn</item>
+        <item>Mercy</item>
+        <item>2U</item>
+    </string-array>
+    <string-array name="songs_interpreters">
+        <item>REO Speedwagon</item>
+        <item>Vance Joy</item>
+        <item>Jason Walker</item>
+        <item>Shawn Mendes</item>
+        <item>Britney Spears</item>
+        <item>Elvis Presley</item>
+        <item>John Legend</item>
+        <item>Florence and the Machine</item>
+        <item>George Ezra</item>
+        <item>Dash Berlin and Emma Hewitt</item>
+        <item>Limp Bizkit</item>
+        <item>Armin van Buuren and Sharon den Adel</item>
+        <item>James Arthur</item>
+        <item>Taylor Swift</item>
+        <item>David Guetta</item>
+        <item>Reamonn</item>
+        <item>Paloma Faith</item>
+        <item>Birdy</item>
+        <item>Jason Marz</item>
+        <item>Adele</item>
+        <item>Nightwish</item>
+        <item>ZAYN and Taylor Swift</item>
+        <item>Snow Patrol</item>
+        <item>Lana Del Rey</item>
+        <item>Britney Spears</item>
+        <item>Olly Murs</item>
+        <item>Justs</item>
+        <item>Passenger</item>
+        <item>One Direction</item>
+        <item>Modern Talking</item>
+        <item>Rihanna and Mikky Ekko</item>
+        <item>Shawn Mendes</item>
+        <item>Justin Bieber</item>
+        <item>Jason Walker</item>
+        <item>Grease</item>
+        <item>David Guetta and Sam Martin</item>
+        <item>INXS</item>
+        <item>Justin Timberlake</item>
+        <item>LP</item>
+        <item>Adele</item>
+        <item>Kylie Minogue</item>
+        <item>Miley Cyrus</item>
+        <item>Christina Aguilera</item>
+        <item>One Direction</item>
+        <item>Robbie Williams</item>
+        <item>Coldplay</item>
+        <item>Justin Bieber</item>
+        <item>Cody Simpson</item>
+        <item>Backstreet Boys</item>
+        <item>Ellie Goulding</item>
+        <item>A Great Big World and Christina Aguilera</item>
+        <item>Beyonce</item>
+        <item>September</item>
+        <item>Elvis Presley</item>
+        <item>Train</item>
+        <item>Bryan Adams</item>
+        <item>Bryan Adams</item>
+        <item>Leona Lewis</item>
+        <item>Stevie B</item>
+        <item>ZAYN</item>
+        <item>Eminem and Rihanna</item>
+        <item>Guns N\' Roses</item>
+        <item>Uriah Heep</item>
+        <item>Kelly Clarkson</item>
+        <item>The Wanted</item>
+        <item>Alexander Rybak</item>
+        <item>Paul Van Dyk</item>
+        <item>Jonas Brothers</item>
+        <item>Alan Walker</item>
+        <item>Christina Perri</item>
+        <item>Sophie Ellis-Bextor</item>
+        <item>Harry Styles</item>
+        <item>David Guetta and Sia</item>
+        <item>McFly</item>
+        <item>Emmelie de Forest</item>
+        <item>Taylor Swift</item>
+        <item>Cher</item>
+        <item>Bruno Mars</item>
+        <item>Survivor</item>
+        <item>Benny Benassi</item>
+        <item>Sonique</item>
+        <item>Celine Dion</item>
+        <item>Sonny and Cher</item>
+        <item>Enrique Iglesias</item>
+        <item>Helena Paparizou</item>
+        <item>Zara Larson</item>
+        <item>The Bangles</item>
+        <item>Roxette</item>
+        <item>Sandra</item>
+        <item>Lea Rue and Lost Frequencies</item>
+        <item>Tujamo and Sorana</item>
+        <item>Alan Walker</item>
+        <item>James Morrison and Nelly Furtado</item>
+        <item>Lorde</item>
+        <item>Ron Rope</item>
+        <item>Maggie Reilly</item>
+        <item>DJ Snake and Justin Bieber</item>
+        <item>ZAYN and Sia</item>
+        <item>Shawn Mendes</item>
+        <item>David Guetta and Justin Bieber</item>
+    </string-array>
+    <string-array name="male_singer">
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="female_singer">
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
 </resources>

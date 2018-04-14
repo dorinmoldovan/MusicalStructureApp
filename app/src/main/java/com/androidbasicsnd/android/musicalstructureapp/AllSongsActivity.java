@@ -1,5 +1,6 @@
 package com.androidbasicsnd.android.musicalstructureapp;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
@@ -17,7 +18,9 @@ public class AllSongsActivity extends AppCompatActivity {
 
         ArrayList<Song> songs = new ArrayList<Song>();
 
-        songs = SongsGenerator.getSongsGenerator().getSongs();
+        Context context = getApplicationContext();
+
+        songs = SongsGenerator.getSongsGenerator(context).getSongs();
 
         SongAdapter adapter = new SongAdapter(this, songs);
 
